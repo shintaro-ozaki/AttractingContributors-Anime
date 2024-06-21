@@ -22,3 +22,4 @@ Please write your favorite Japanese Anime below.
 3. DORAEMON
 4. NARUTO
 5. Lupin the Third
+6. CONAN
