@@ -22,5 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 - Hanshin Tigers
+- Chunichi Dragons
 - Yokohama DeNA Baystars
 - Seatle Mariners
