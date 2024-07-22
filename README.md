@@ -21,3 +21,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - Hades
 - NieR:Automata
 - Street Fighter6
+- GTA5
